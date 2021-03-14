@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1615726430,,"wq!"
+|2,0,1615727081,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,18 +25,46 @@
 # Registers:
 
 # File marks:
-'0  1  16  ~/hello.txt
-|4,48,1,16,1615726430,"~/hello.txt"
-'1  18  24  ~/.git/config
-|4,49,18,24,1615726363,"~/.git/config"
+'0  2  21  ~/hello.txt
+|4,48,2,21,1615727081,"~/hello.txt"
+'1  16  14  ~/.git/config
+|4,49,16,14,1615726774,"~/.git/config"
+'2  1  16  ~/hello.txt
+|4,50,1,16,1615726430,"~/hello.txt"
+'3  1  16  ~/hello.txt
+|4,51,1,16,1615726430,"~/hello.txt"
+'4  18  24  ~/.git/config
+|4,52,18,24,1615726363,"~/.git/config"
 
 # Jumplist (newest first):
+-'  2  21  ~/hello.txt
+|4,39,2,21,1615727081,"~/hello.txt"
+-'  1  16  ~/hello.txt
+|4,39,1,16,1615727054,"~/hello.txt"
+-'  16  14  ~/.git/config
+|4,39,16,14,1615726774,"~/.git/config"
+-'  16  14  ~/.git/config
+|4,39,16,14,1615726774,"~/.git/config"
+-'  1  16  ~/hello.txt
+|4,39,1,16,1615726430,"~/hello.txt"
 -'  1  16  ~/hello.txt
 |4,39,1,16,1615726430,"~/hello.txt"
 -'  18  24  ~/.git/config
 |4,39,18,24,1615726363,"~/.git/config"
 -'  18  24  ~/.git/config
 |4,39,18,24,1615726363,"~/.git/config"
+-'  18  24  ~/.git/config
+|4,39,18,24,1615726363,"~/.git/config"
+-'  18  24  ~/.git/config
+|4,39,18,24,1615726363,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1615726286,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1615726286,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1615726286,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1615726286,"~/.git/config"
 -'  1  0  ~/.git/config
 |4,39,1,0,1615726286,"~/.git/config"
 -'  1  0  ~/.git/config
@@ -45,15 +73,19 @@
 # History of marks within files (newest to oldest):
 
 > ~/hello.txt
-	*	1615726424	0
-	"	1	16
-	^	1	17
-	.	1	16
+	*	1615727077	0
+	"	2	21
+	^	2	22
+	.	2	21
 	+	1	16
+	+	2	0
+	+	2	21
 
 > ~/.git/config
-	*	1615726357	0
-	"	18	24
-	^	18	25
-	.	18	25
-	+	18	25
+	*	1615726770	0
+	"	16	14
+	^	16	15
+	.	17	0
+	+	16	29
+	+	16	15
+	+	17	0
